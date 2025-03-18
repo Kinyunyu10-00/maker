@@ -9,3 +9,11 @@ table{
 table,th,tr{
     border: 1px solid whitesmoke;
 }
+input{
+    background-color: aliceblue;
+    border-radius: 1.5rem;
+}
+button{
+    background-color: rgb(76, 76, 250);
+    color: white;
+}
