@@ -12,8 +12,11 @@ table,th,tr{
 input{
     background-color: aliceblue;
     border-radius: 1.5rem;
+    
+    margin: 2px;
 }
 button{
     background-color: rgb(76, 76, 250);
     color: white;
+    border-radius: 5%;
 }
