@@ -2,3 +2,10 @@
     background-color: rgb(210, 210, 234);
     margin-left: 2rem;
 }
+table{
+    border: 1;
+    
+}
+table,th,tr{
+    border: 1px solid whitesmoke;
+}
