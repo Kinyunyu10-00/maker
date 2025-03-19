@@ -28,7 +28,7 @@ button {
   flex-direction: row;
  
 }
-.left, input,h2,label,form{
- background-color: rgb(33, 33, 226);
+.left, input,#d,label,form{
+ background-color: rgb(72, 72, 237);
  margin-left: 0%;
 }
