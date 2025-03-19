@@ -21,3 +21,8 @@ button{
     border-radius: 8px;
     margin-top: 3px;
 }
+.main{
+    display: flex;
+    flex-direction: row;
+    background-color: ;
+}
